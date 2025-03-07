@@ -1,5 +1,5 @@
 import { BrowserProvider, Contract } from "ethers";
-import contractABI from "./Tutoring.json";
+import contractABI from "../utils/Tutoring.json";
 
 const CONTRACT_ADDRESS = "PASTE_YOUR_CONTRACT_ADDRESS_HERE";
 
